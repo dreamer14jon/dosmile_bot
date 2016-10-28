@@ -1,0 +1,5 @@
+{
+    "app_id": "<your app id>",
+    "app_key": "<your app key>",
+    "token": "<your telegram bot token>"
+}
