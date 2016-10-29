@@ -1,5 +1,5 @@
 # dosmile_bot
-Dosmile telegram bot: unleash the power of Dandelion Sentiment API!
+Dosmile Telegram bot: unleash the power of Dandelion Sentiment API!
 
 ![Sample conversation with the bot](https://raw.githubusercontent.com/lonlylocly/dosmile_bot/master/sample_conversation.jpg)
 
