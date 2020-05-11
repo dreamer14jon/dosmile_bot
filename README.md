@@ -1,6 +1,6 @@
 # dosmile_bot
 Dosmile Telegram bot: unleash the power of Dandelion Sentiment API!
-
+[![Run on Repl.it](https://repl.it/badge/github/lonlylocly/dosmile_bot)](https://repl.it/github/lonlylocly/dosmile_bot)
 ![Sample conversation with the bot](https://raw.githubusercontent.com/lonlylocly/dosmile_bot/master/sample_conversation.jpg)
 
 ## What is this?
